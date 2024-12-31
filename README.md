@@ -2,6 +2,8 @@
 
 pyVolve Mechanical is an extension for the [pyRevit](https://github.com/pyrevitlabs/pyRevit) add-in, tailored specifically for piping detailers working with Fabrication Parts. This extension is designed to save time, reduce repetitive tasks, and make your modeling process smoother and more efficient.
 
+see [Wiki](https://github.com/SRobles512/pyVolve-Mechanical/wiki) for more details.
+
 ---
 
 ## Installation
@@ -23,8 +25,6 @@ To install pyVolve Mechanical, follow these steps:
 ---
 
 ## Features
-
-**Version 1.0.0** includes the following features:
 
 - **Adjust Rod Length**: Simplify and streamline rod length adjustments for your models.
 - **Automate Insulation**: Save time by automating insulation tasks for piping.
