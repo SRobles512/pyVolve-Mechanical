@@ -7,17 +7,22 @@ see [Wiki](https://github.com/SRobles512/pyVolve-Mechanical/wiki) for more detai
 ---
 
 ## Installation
-
 To install pyVolve Mechanical, follow these steps:
+1. Ensure you have [**pyRevit**](https://github.com/pyrevitlabs/pyRevit/releases) and [**Revit (versions 2022–2024)**](https://www.autodesk.com/products/revit/overview?term=1-YEAR&tab=subscription) installed on your machine.
 
-1. Ensure you have **pyRevit** and **Revit (versions 2022–2024)** installed on your machine.
-2. Download the zip file of this repository.
-3. Extract the contents of the zip file.
-4. Move the `pyVolve Mechanical.extension` folder to the following directory:
+2. **If you have Git installed**, Clone the repository using:
+   ```
+   gh repo clone SRobles512/pyVolve-Mechanical
+   ```
+   **If you do not have Git installed**, click on the green <> Code Button and click downlaod ZIP
+   
+   ![image](https://github.com/user-attachments/assets/aa114efd-a7aa-4c04-99d2-61849a64c0d6)
+
+4. Move the `pyVolve Mechanical.extension` folder to the following directory by copy and pasting into the address bar of the File Explorer:
    ```
    %AppData%\pyRevit\Extensions\
    ```
-5. Discard the rest of the zip content.
+5. Discard the rest of the cloned content.
 6. Reload pyRevit to activate the extension.
 
 *Note: The extension must be located in the specified directory to ensure proper pathing.*
@@ -26,7 +31,7 @@ To install pyVolve Mechanical, follow these steps:
 
 ## Features
 
-- **Adjust Rod Length**: Simplify and streamline rod length adjustments for your models.
+- **Adjust Rod Length**: Allows the user to adjust the Rod Length of hangers that are attached to structure.
 - **Automate Insulation**: Save time by automating insulation tasks for piping.
 
 ---
