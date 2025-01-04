@@ -33,6 +33,7 @@ To install pyVolve Mechanical, follow these steps:
 
 - **Adjust Rod Length**: Allows the user to adjust the Rod Length of hangers that are attached to structure.
 - **Automate Insulation**: Save time by automating insulation tasks for piping.
+- **Elevation Alignment**: Allows the user to align pipes by any of the following - Align by Bottom of Insulation, Align by Bottom of Pipe, Align by Centerline, Align by Top of Pipe, Align by Top of Insulation
 
 ---
 
